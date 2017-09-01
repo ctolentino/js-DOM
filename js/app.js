@@ -14,8 +14,6 @@ Find the element with the id of "position2":
 	- Change the background color to red
 */
 
-document.getElementById("position2").innerHTML = "Project Manager";
-//document.getElementById("position2").style.color = "red";
 
 /*3. Piko Taro
 
@@ -24,8 +22,6 @@ Find the element with the id of "alias3":
 	- Change the font size to 40
 */
 
-document.getElementById("alias3").innerHTML = "Concatenation";
-document.getElementById("alias3").style.fontSize = "40px";
 
 /*4. Prince
 
@@ -34,9 +30,6 @@ Find the element with the class name of "profile":
 	- Change the styles of the font-family to Sans Serif
 */
 
-console.log(document.getElementsByClassName("profile")[0]);
-document.getElementsByClassName("profile")[0].innerHTML = 
-		"Could you be the most beautiful girl in the world?";
 
 /*5. Bruce Lee
 
