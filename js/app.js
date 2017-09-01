@@ -5,7 +5,6 @@
 Find the element with the id of "name1":
 	- Replace the content with the following string "Tay-Tay"*/
 
-document.getElementById("name1").innerHTML = "Tay-Tay";
 
 
 /*2. DJ Khaled
